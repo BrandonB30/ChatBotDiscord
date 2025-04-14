@@ -81,10 +81,6 @@ private void inicializarRespuestas() {
 - `DiscordBotGUI.java`: Clase principal con la interfaz gráfica y lógica del bot
 - `DiscordMessageListener`: Clase interna que maneja los eventos de mensajes
 
-## Capturas de Pantalla
-
-![Interfaz del Bot](screenshots/bot_interface.png)
-
 ## Licencia
 
 [MIT](LICENSE)
