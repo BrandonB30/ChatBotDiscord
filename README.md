@@ -91,4 +91,4 @@ private void inicializarRespuestas() {
 
 ## Autor
 
-Desarrollado por Juan Sebastian Quinto Hinestroza
+Desarrollado por Brandon Stick Bernal Rodriguez
